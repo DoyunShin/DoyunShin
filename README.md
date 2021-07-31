@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요? TDB, RST의 개발자 신도윤입니다.
+
+제 회사계정은 https://github.com/onTDB 에서 확인하실 수 있으며,
+개인 홈페이지(*점검중)는 https://doyun.me/ 에서,
+회사 홈페이지(*점검중)는 https://www.ontdb.com/ 에서 확인하실수 있습니다.
 
 <!--
 **DoyunShin/DoyunShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
