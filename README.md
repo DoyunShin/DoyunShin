@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 * DoyunShin (Personal) Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DoyunShin&show_icons=true&theme=onedark&count_private=true)
+
+
+![GitHub stats](https://github-stats.doyun.me/api?username=DoyunShin&show_icons=true&theme=onedark&count_private=true)
 
 * onTDB (Work) Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=onTDB&show_icons=true&theme=onedark&count_private=true)
+![GitHub stats](https://github-stats.doyun.me/api?username=onTDB&show_icons=true&theme=onedark&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoyunShin&layout=compact&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onTDB&layout=compact&theme=onedark)
+![Top Langs](https://github-stats.doyun.me/api/top-langs/?username=DoyunShin&layout=compact&theme=onedark)
+![Top Langs](https://github-stats.doyun.me/api/top-langs/?username=onTDB&layout=compact&theme=onedark)
